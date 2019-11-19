@@ -14,6 +14,7 @@
 		FB45C7B52383F8F500C691E5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB45C7B32383F8F500C691E5 /* LaunchScreen.storyboard */; };
 		FB45C7C02383F8F600C691E5 /* PrimeraClaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB45C7BF2383F8F600C691E5 /* PrimeraClaseTests.swift */; };
 		FB45C7CB2383F8F600C691E5 /* PrimeraClaseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB45C7CA2383F8F600C691E5 /* PrimeraClaseUITests.swift */; };
+		FBFBC39923841F7B00F0A679 /* SegundoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBFBC39823841F7B00F0A679 /* SegundoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FB45C7C62383F8F600C691E5 /* PrimeraClaseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PrimeraClaseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB45C7CA2383F8F600C691E5 /* PrimeraClaseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimeraClaseUITests.swift; sourceTree = "<group>"; };
 		FB45C7CC2383F8F600C691E5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FBFBC39823841F7B00F0A679 /* SegundoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegundoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				FB45C7B12383F8F500C691E5 /* Assets.xcassets */,
 				FB45C7B32383F8F500C691E5 /* LaunchScreen.storyboard */,
 				FB45C7B62383F8F500C691E5 /* Info.plist */,
+				FBFBC39823841F7B00F0A679 /* SegundoViewController.swift */,
 			);
 			path = PrimeraClase;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				FB45C7AD2383F8F300C691E5 /* ViewController.swift in Sources */,
 				FB45C7AB2383F8F300C691E5 /* AppDelegate.swift in Sources */,
+				FBFBC39923841F7B00F0A679 /* SegundoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
